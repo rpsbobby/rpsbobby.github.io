@@ -192,7 +192,7 @@ img.bio-image {
   grid-template-columns: repeat(3, 1fr); }
   .projects img {
     width: 100%;
-    border: 3px #fff solid; }
+    border: 3px #a2798f solid; }
     .projects img:hover {
       opacity: 0.5;
       border-color: #a2798f;
